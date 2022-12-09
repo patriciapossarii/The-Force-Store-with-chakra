@@ -1,0 +1,104 @@
+[{
+    "id": "82686322980",
+    "name": {
+      "english": "HELMET - KYLO REN"},
+    "type": [
+      "Dark"],
+      "price":600.50
+      },
+
+
+
+  {
+    "id": "647788650012",
+    "name": {
+      "english": "HELMET - SUPREME DELUXE JANGO FETT"},
+    "type": ["Light"],
+    "price":620.00
+    },
+
+
+    {
+      "id": "82686650199",
+      "name": {
+        "english": "HELMET - IMPERIAL GUARD, RED"},
+      "type": ["Dark"],
+      "price":620.00
+      },
+
+      {
+        "id": "653569508762",
+        "name": {
+          "english": "HELMET - BOBA FETT "},
+        "type": ["Light"],
+        "price":620.00
+        }
+  ,
+  {
+    "id": "35011966205",
+    "name": {
+      "english": "HELMET - STORM TROOPER MULTISPORT CHINBAR "},
+    "type": ["Dark"],
+    "price":620.00
+    }
+ 
+    ,
+  {
+    "id": "82686323116",
+    "name": {
+      "english": "HELMET - STORM TROOPER "},
+    "type": ["Dark"],
+    "price":620.00
+    }
+    ,
+  {
+    "id": "82686323031",
+    "name": {
+      "english": "HELMET - CAPTAIN PHASMA"},
+    "type": ["Dark"],
+    "price":620.00
+    }
+    ,
+  {
+    "id": "5053568971263",
+    "name": {
+      "english": "LIGHTSABER -  DARTH VADER"},
+    "type": ["Dark"],
+    "price":620.00
+    }
+   , 
+   
+   {
+     "id": "885837961737",
+     "name": {
+       "english": "LIGHTSABER -  LUKE SKYWALKER"},
+     "type": ["Light"],
+     "price":620.00
+     }
+    ,
+    {
+      "id": "5889332862709",
+      "name": {
+        "english": "LIGHTSABER - ANAKIN SKYWALKER"},
+      "type": ["Light"],
+      "price":620.00
+      }
+     , 
+     {
+      "id": "630509348022",
+      "name": {
+        "english": "LIGHTSABER - YODA"},
+      "type": ["Light"],
+      "price":950.00
+      }
+     ,     
+    {
+      "id": "699788702512",
+      "name": {
+        "english": "FIGURE - R2D2"},
+      "type": ["Light"],
+      "price":720.00
+      }
+
+  
+]
